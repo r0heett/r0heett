@@ -1,44 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ROHIT%20PATIL&fontSize=54&fontAlignY=36&desc=Java%20Developer%20%7C%20Student%20%7C%20Project%20Builder&descAlignY=58&descSize=18&color=gradient&customColorList=0,2,12,20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=ROHIT%20PATIL&fontSize=54&fontAlignY=36&desc=Java%20Developer%20%7C%20Student%20%7C%20Builder&descAlignY=58&descSize=18&color=gradient&customColorList=6,12,18,24" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Building+clean+Java+applications;Learning+by+shipping+projects;Turning+ideas+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Writing+clean+Java+code;Building+real-world+projects;Learning+every+day+and+shipping+often" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=r0heett&style=for-the-badge&color=111827" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Nashik-ef4444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Student-8b5cf6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Python-10b981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Nashik-111827?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-Student-7c3aed?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Python-10b981?style=for-the-badge" alt="Focus" />
 </p>
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
-### About Me
-- I am **Rohit Patil** from **Nashik**
-- I like building practical projects and improving my coding skills every day
-- I enjoy working with **Java, Python, HTML, CSS, JavaScript, and MySQL**
-- I value **clean code, consistent learning, and real project experience**
-- Email: **therohitpatil18@gmail.com**
+<h3>About Me</h3>
 
-### Current Focus
-- Strengthening Java fundamentals
-- Building useful small and medium projects
-- Practicing problem solving and debugging
-- Improving project presentation on GitHub
+<p>I'm <b>Rohit Patil</b>, a student from <b>Nashik</b> who enjoys turning ideas into useful software.</p>
+
+<ul>
+  <li>I build and learn mainly with <b>Java</b> and <b>Python</b></li>
+  <li>I like practical projects that solve real problems</li>
+  <li>I'm improving my skills in backend development and problem solving</li>
+  <li>I value clean structure, simple design, and consistent progress</li>
+</ul>
+
+<h3>What I'm focusing on</h3>
+
+<ul>
+  <li>Stronger Java fundamentals</li>
+  <li>Better project architecture</li>
+  <li>More useful GitHub projects</li>
+  <li>Writing code that is easier to understand and maintain</li>
+</ul>
 
 </td>
-<td width="44%" valign="top">
+<td width="42%" valign="top">
 
-### Profile Snapshot
+<h3>Quick Snapshot</h3>
+
 <pre>
-Name      : ROHIT PATIL
+Name      : Rohit Patil
 Username  : r0heett
-Role      : Student / Java Developer
 Location  : Nashik, India
+Status    : Student
+Goal      : Build better projects
 Email     : therohitpatil18@gmail.com
 </pre>
 
@@ -48,7 +57,7 @@ Email     : therohitpatil18@gmail.com
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -64,7 +73,7 @@ Email     : therohitpatil18@gmail.com
 
 ---
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
@@ -95,16 +104,24 @@ Email     : therohitpatil18@gmail.com
 
 ---
 
-## GitHub Analytics
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r0heett&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r0heett&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0heett&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=r0heett&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0heett&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:therohitpatil18@gmail.com">
@@ -116,9 +133,9 @@ Email     : therohitpatil18@gmail.com
 </p>
 
 <p align="center">
-  Keep learning. Keep building. Keep improving.
+  <b>Clean code. Strong logic. Continuous growth.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=0,2,12,20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=6,12,18,24" />
 </p>
